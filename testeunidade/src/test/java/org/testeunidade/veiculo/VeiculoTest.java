@@ -15,7 +15,6 @@ class VeiculoTest {
         veiculo.setModelo("Fusca");
         veiculo.setCor("Azul");
         veiculo.setPlaca("2658786");
-
         assertEquals("Vintage", veiculo.obterClasse());
     }
 
@@ -27,7 +26,6 @@ class VeiculoTest {
         veiculo.setModelo("Civic");
         veiculo.setCor("Prata");
         veiculo.setPlaca("2658786");
-
         assertEquals("Contemporâneo", veiculo.obterClasse());
     }
 
@@ -39,7 +37,6 @@ class VeiculoTest {
         veiculo.setModelo("Taycan");
         veiculo.setCor("Cinza");
         veiculo.setPlaca("R1Y96F");
-
         assertEquals("New Generation", veiculo.obterClasse());
     }
 }

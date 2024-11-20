@@ -10,7 +10,6 @@ class NumeroPrimoTest {
     void deveRetornarNumeroPrimo() {
         NumeroPrimo numeroPrimo = new NumeroPrimo();
         numeroPrimo.setNumero(5);
-
         assertEquals("Número Primo", numeroPrimo.validarNumeroPrimo());
     }
 
