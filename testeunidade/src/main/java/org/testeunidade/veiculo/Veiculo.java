@@ -1,4 +1,4 @@
-package org.testeunidade.Veiculo;
+package org.testeunidade.veiculo;
 
 public class Veiculo {
 

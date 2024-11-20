@@ -1,4 +1,4 @@
-package org.testeunidade.Veiculo;
+package org.testeunidade.veiculo;
 
 
 import org.junit.jupiter.api.Test;
