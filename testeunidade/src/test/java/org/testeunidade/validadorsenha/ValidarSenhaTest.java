@@ -1,4 +1,4 @@
-package org.testeunidade.ValidadorSenha;
+package org.testeunidade.validadorsenha;
 
 import org.junit.jupiter.api.Test;
 
